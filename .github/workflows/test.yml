@@ -20,7 +20,7 @@ jobs:
                 repo: context.repo.repo,
               });
               if (projects.data.length === 0) {
-                console.log("not found");
+                console.log(context.repo.owner);
               } else {
                 console.log(projects.data.map(project => project.name));
               }
