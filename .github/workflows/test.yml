@@ -19,7 +19,7 @@ jobs:
                 repo: context.repo.repo,
               });
               if (projects.data.length === 0) {
-                console.log(context.repo.owner);
+                console.log(context.repo.repo);
               } else {
                 console.log(projects.data.map(project => project.name));
               }
