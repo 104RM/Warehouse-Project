@@ -12,7 +12,7 @@ jobs:
       - name: List projects
         uses: actions/github-script@v7
         with:
-          github-token: ${{ secrets.ACTIONs_TOKEN }}
+          github-token: ${{ secrets.WAREHOUSE }}
           script: |
             try {
               const projects = await github.rest.projects.listForRepo({
