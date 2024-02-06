@@ -1,0 +1,12 @@
+C:\Warehouse-Project\Warehouse-Project\Warehouse\bin\Debug\Warehouse.exe.config
+C:\Warehouse-Project\Warehouse-Project\Warehouse\bin\Debug\Warehouse.exe
+C:\Warehouse-Project\Warehouse-Project\Warehouse\bin\Debug\Warehouse.pdb
+C:\Warehouse-Project\Warehouse-Project\Warehouse\obj\Debug\Warehouse.csproj.AssemblyReference.cache
+C:\Warehouse-Project\Warehouse-Project\Warehouse\obj\Debug\Warehouse.Dashboard.resources
+C:\Warehouse-Project\Warehouse-Project\Warehouse\obj\Debug\Warehouse.Form1.resources
+C:\Warehouse-Project\Warehouse-Project\Warehouse\obj\Debug\Warehouse.Header.resources
+C:\Warehouse-Project\Warehouse-Project\Warehouse\obj\Debug\Warehouse.Properties.Resources.resources
+C:\Warehouse-Project\Warehouse-Project\Warehouse\obj\Debug\Warehouse.csproj.GenerateResource.cache
+C:\Warehouse-Project\Warehouse-Project\Warehouse\obj\Debug\Warehouse.csproj.CoreCompileInputs.cache
+C:\Warehouse-Project\Warehouse-Project\Warehouse\obj\Debug\Warehouse.exe
+C:\Warehouse-Project\Warehouse-Project\Warehouse\obj\Debug\Warehouse.pdb
